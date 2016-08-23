@@ -1,0 +1,14 @@
+layout_spectrum: 0.6346945250406861
+typography_spectrum: 0.6723505286499858
+color:
+  brandStrength: 0.6094541596248746
+  lightness: 0.5917978240177035
+  saturation: 0.26532572018913925
+  rhythmicContrast: 0.8792540649883449
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: GOChurch
