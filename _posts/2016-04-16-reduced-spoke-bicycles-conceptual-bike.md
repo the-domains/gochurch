@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T19:57:00.421Z'
+datePublished: '2016-08-23T20:02:05.597Z'
 sourcePath: _posts/2016-04-16-reduced-spoke-bicycles-conceptual-bike.md
 inFeed: true
 isBasedOnUrl: 'http://www.trendhunter.com/trends/conceptual-bike'
@@ -18,14 +18,10 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-23T19:57:00.027Z'
+dateModified: '2016-08-23T20:02:05.045Z'
 title: Join us Live on Sundays at 11 am!
 app_links: []
-publisher:
-  url: 'http://youtu.be/c-q60_stxH8'
-  name: GOChurch
-  favicon: 'http://cdn.trendhunterstatic.com/favicon.ico'
-  domain: www.trendhunter.com
+publisher: {}
 description: ''
 inLanguage: en
 inNav: false
