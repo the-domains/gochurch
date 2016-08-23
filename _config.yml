@@ -6,9 +6,9 @@ color:
   saturation: 0.26532572018913925
   rhythmicContrast: 0.8792540649883449
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#000000'
+    - '#C13639'
+    - '#181215'
+    - '#531D20'
+    - '#A83134'
 name: GOChurch
