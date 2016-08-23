@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T18:57:32.789Z'
+datePublished: '2016-08-23T19:24:30.131Z'
 sourcePath: _posts/2016-04-16-reduced-spoke-bicycles-conceptual-bike.md
 inFeed: true
 isBasedOnUrl: 'http://www.trendhunter.com/trends/conceptual-bike'
@@ -17,24 +17,22 @@ keywords:
   - opts
 related: []
 author: []
-dateModified: '2016-08-23T18:57:32.373Z'
-title: 'Reduced Spoke Bicycles : Conceptual Bike'
+via: {}
+dateModified: '2016-08-23T19:24:29.697Z'
+title: Join us Live Sundays at 11 am.
 app_links: []
 publisher:
-  url: 'http://www.trendhunter.com'
-  name: TrendHunter.com
+  url: 'http://youtu.be/c-q60_stxH8'
+  name: GOChurch Live
   favicon: 'http://cdn.trendhunterstatic.com/favicon.ico'
   domain: www.trendhunter.com
-description: >-
-  Conceptual Bike - Ion Lucin has simplified the design of a standard
-  two-wheeler with his conceptual bike Baik that opts for three-spoked wheels, a
-  limited use of lin...
+description: ''
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Reduced Spoke Bicycles : Conceptual Bike</h1><p>Conceptual Bike - Ion Lucin has simplified the design of a standard two-wheeler with his conceptual bike Baik that opts for three-spoked wheels, a limited use of lin...</p><img src="http://cdn.trendhunterstatic.com/thumbs/conceptual-bike.jpeg" /></article>
+# Join us Live Sundays at 11 am.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b92bc5e7-8b40-4ffa-8487-e7e2362a0d16.jpg)
