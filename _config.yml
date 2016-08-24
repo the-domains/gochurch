@@ -1,16 +1,16 @@
-typography_spectrum: 0.6723505286499858
+layout_spectrum: 0.3707120402250439
+typography_spectrum: 0.7541883448138833
 color:
-  brandStrength: 0.6094541596248746
-  lightness: 0.5917978240177035
-  saturation: 0.26532572018913925
-  rhythmicContrast: 0.8792540649883449
+  brandStrength: 0.9837643222417682
+  lightness: 0.2089838832616806
+  saturation: 0.9838129919953644
+  rhythmicContrast: 0.15944422129541636
   brandColors:
-    - '#000000'
-    - '#C13639'
-    - '#181215'
-    - '#531D20'
-    - '#A83134'
-layout_spectrum: 0.6346945250406861
+    - '#FEFDF8'
+    - '#010207'
+    - '#655A5E'
+    - '#8A99B8'
+    - '#B27F52'
 name: GOChurch
 title: GO GROW GIVE
 description: 'Current Series: Hurt'
