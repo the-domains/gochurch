@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T20:02:05.597Z'
+datePublished: '2016-08-24T01:45:59.219Z'
 sourcePath: _posts/2016-04-16-reduced-spoke-bicycles-conceptual-bike.md
 inFeed: true
 isBasedOnUrl: 'http://www.trendhunter.com/trends/conceptual-bike'
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-23T20:02:05.045Z'
+dateModified: '2016-08-24T01:45:58.890Z'
 title: Join us Live on Sundays at 11 am!
 app_links: []
 publisher: {}
@@ -31,6 +31,6 @@ _type: MediaObject
 
 ---
 # [Join us Live on Sundays at 11 am][0]!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b92bc5e7-8b40-4ffa-8487-e7e2362a0d16.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/409dba25-4a4c-4f62-bd4f-470f98449819.jpg)
 
 [0]: http://youtu.be/c-q60_stxH8 "Youtube Live!"
